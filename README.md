@@ -1,7 +1,7 @@
 # Blog_article_TDWI_clustermap_and_hierarchichal_clustering
 The notebook for the blog article on TDWI - February 2020
 
-You can find the article here: ???
+You can find the article here: https://blog.tdwi.eu/clustermap-and-hierarchical-clustering-in-python-–-a-powerful-chart-to-display-many-aspects-of-data/
 
 ## Clustermap and hierarchical clustering in Python – what does it mean and what can you accomplish with it?
 
